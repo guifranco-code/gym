@@ -1,0 +1,6 @@
+{
+  "name": "Academia Treinos",
+  "description": "Aplicativo de treinos para academia com gestão de exercícios, vídeos, fichas por professor, registro de cargas pelo aluno e gráficos de evolução.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
